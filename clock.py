@@ -1,5 +1,3 @@
-    # use Tkinter to show a digital clock
-    # tested with Python24    vegaseat    10sep2006
 from tkinter import *
 import tkinter as tk
 import time
